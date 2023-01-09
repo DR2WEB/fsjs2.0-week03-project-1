@@ -1,0 +1,85 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.container section .navbar-container div img {
+  width: 135px;
+  margin-top: 23px;
+  margin-left: 150px;
+}
+
+.container section .navbar-container {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-container .grow-list .list {
+  padding-top: 25px;
+  padding-right: 220px;
+}
+.navbar-container .grow-list .list .list-item {
+  padding-left: 40px;
+}
+.grow-list .list .list-item {
+  display: inline;
+  color: darkgrey;
+}
+
+.grow-list .list .list-item:nth-child(1) {
+  color: #000;
+}
+
+.button-group {
+  margin-top: 24px;
+}
+.button-group .nav-button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+  background-color: #7475da;
+  border-style: none;
+  color: #ffff;
+  margin-left: 139px;
+}
+section .banner-container div .heading-text {
+  color: #343464;
+  font-size: 45px;
+  margin-left: 180px;
+  margin-top: 80px;
+}
+section .banner-container div .heading-text span {
+  color: #7475da;
+  font-size: 45px;
+}
+section .banner-container div .description {
+  color: darkgrey;
+  font-size: 15px;
+  width: 350px;
+  margin-left: 180px;
+}
+section .banner-container div button {
+  color: #ffff;
+  background-color: #7475da;
+  border-radius: 8px;
+  border-style: none;
+  margin-left: 178px;
+  margin-top: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+section .banner-container {
+  display: flex;
+}
+
+section div img {
+  width: 550px;
+  margin-top: 20px;
+  margin-left: 275px;
+}
