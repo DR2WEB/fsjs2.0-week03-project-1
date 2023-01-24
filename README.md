@@ -1,6 +1,6 @@
 # fsjs2.0-week03-project-1
 Hi everyone,  
-This is my week03/projects  
+This is my week03/project-1 
 
 #Project-1  
 
