@@ -1,14 +1,24 @@
 # fsjs2.0-week03-project-1
 Hi everyone,  
-This is my week03/projects 
+This is my week03/projects  
 
 #Project-1
-![output](https://user-images.githubusercontent.com/119164102/211241852-2913a400-f344-4caf-bb1d-4cc79f9aec19.png)
+what i learned from this project:  
 
-#Project-2
-![output](https://user-images.githubusercontent.com/119164102/211543552-f1192028-d68a-401a-a5fc-7f15d3a5d497.png)
+- display: flex;
 
-#Projecct-3
-![output](https://user-images.githubusercontent.com/119164102/211543650-67bab9bf-8ed2-41a7-a229-e6d09f10a3cc.png)   
+- margin
+
+- padding
+
+- font-size
+
+- attribute selector
+
+- child selector
+
+- nth child selector
+
+![Screenshot from 2022-12-03 10-43-23](https://user-images.githubusercontent.com/119164102/214308546-0fecd915-28f3-49d5-8e69-33d3c4e11392.png)
 
 NOTE: This is not responsive.
